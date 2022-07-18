@@ -1,8 +1,8 @@
-# MachineLearningPreprocessing
 
-# PreprocessingMachineLearning
 
-Machine learning - PreProcessing data in Python (extract penicillin resistance only)
+###PreprocessingMachineLearning
+
+Machine learning - PreProcessing data in Python (extract penicillin resistance only) for project comparing two pipeline for WGS data analysing
 
 
 import numpy as np
