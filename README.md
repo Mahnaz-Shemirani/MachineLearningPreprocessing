@@ -4,7 +4,7 @@
 
 Machine learning - PreProcessing data in Python (extract penicillin resistance only) for project comparing two pipeline for WGS data analysing
 
-
+'''
 import numpy as np
 
 import pandas as pd
@@ -84,3 +84,5 @@ anti_P=anti_data.groupby(['iso no','date']).agg('sum')
 #save file
 
 anti_P.to_excel(r'D:\PATH TO DESTINATION\anti_P.xlsx') 
+
+'''
