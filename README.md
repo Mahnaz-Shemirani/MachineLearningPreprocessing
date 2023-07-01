@@ -1,4 +1,4 @@
-###Machine learning - PreProcessing data in Python, Jupyter notebook (extract penicillin resistance only) for project comparing two pipeline for WGS data analysing
+###Machine learning - PreProcessing data in Python, Jupyter notebook (extract penicillin resistance only) for project comparing two pipeline for WGS data analysing https://doi.org/10.1186/s12879-022-07977-0
 
 
           import numpy as np
